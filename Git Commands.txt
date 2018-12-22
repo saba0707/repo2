@@ -1,0 +1,10 @@
+git config --global user.email "saba07@gmail.com"
+git config --global usern.name "saba0707"
+
+
+git init
+git status
+git add .
+git commit -m "Descrtiption of the changes committed"
+git remote add origin https://github.com/saba0707/repo2.git
+git push -u origin master
