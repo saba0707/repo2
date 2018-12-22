@@ -8,3 +8,10 @@ git add .
 git commit -m "Descrtiption of the changes committed"
 git remote add origin https://github.com/saba0707/repo2.git
 git push -u origin master
+
+git --help
+git log
+
+
+
+git branch "SurfaceBook Branch"
