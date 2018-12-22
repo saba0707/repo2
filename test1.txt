@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 00C1-AED2
+
+ Directory of C:\Users\Saba\Documents\GitHub\My First Git Project
+
+12/22/2018  08:45 AM    <DIR>          .
+12/22/2018  08:45 AM    <DIR>          ..
+12/22/2018  08:45 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  13,137,997,824 bytes free
